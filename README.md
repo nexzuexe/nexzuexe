@@ -34,7 +34,7 @@ CS fundamentals         ██░░░░░░░░░░░░░░░░�
 ## 📁 Projects
 | Repo | Description |	Status|
 |------|-------------|--------|
-|portfolio |	Personal site	| 🏁 done |
+|portfolio-old |	Personal site	| 🏁 done |
 
 
 
