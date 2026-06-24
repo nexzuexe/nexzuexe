@@ -90,13 +90,13 @@
 ```text
 ┌──────────────────────────────┐  ┌──────────────────────────────┐
 │                              │  │                              │
-│   🌐 Portfolio (V1)          |  | 🔧 ████████████░░░░░░░░░    │
+│   🌐 Portfolio (V1)          |  |  🃏 TCGPlayer Reimagined    │ 
+│                              │  │         (in process)         │
+│   [HTML5] [CSS3]             │  │ 🔧 █░░░░░░░░░░░░░░░░░░░░ 1%  │
 │                              │  │                              │
-│   [HTML5] [CSS3]             │  │   [HTML5] [CSS3]             │
-│                              │  │                              │
-│   First deployed site.       │  │   Loading next project...    │
-│   Foundation for v2.         │  │   Stay tuned.                │
-│                              │  │                              │
+│   First deployed site.       │  │  [HTML5] [CSS3]              │
+│   Foundation for v2.         │  │  Building...                 │
+│                              │  │  cat working...              │
 │                              │  │                              │
 │                              │  │                              │
 └──────────────────────────────┘  └──────────────────────────────┘
